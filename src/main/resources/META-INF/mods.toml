@@ -1,0 +1,12 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+issueTrackerURL="https://github.com/ezelrealoffc-cmd/minecraft-power-mod/issues"
+
+[[mods]]
+modId="yourmod"
+version="1.0.0"
+displayName="Your Mod"
+displayURL="https://github.com/ezelrealoffc-cmd/minecraft-power-mod"
+authors="Copilot"
+description='A custom Forge 1.20.1 mod with respawn buffs, power gathering, and charged fist mechanics.'
